@@ -1,0 +1,538 @@
+=== AI Agents Thumbnails - SNES Retro ===
+
+[2/3] Instalando dependencias...
+
+Tema do video (ENTER = Os 5 melhores jogos de SNES):
+
+[3/3] Rodando os agentes...
+Front em http://localhost:8765/
+
+┌───────────────────────────────────────────── 🚀 Crew Execution Started ─────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Crew Execution Started                                                                                             │
+│  Name: crew                                                                                                         │
+│  ID: e5301a51-8879-4f4d-a626-2621c3fcff1e                                                                           │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────── 📋 Task Started ──────────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Task Started                                                                                                       │
+│  Name: Pesquise com a ferramenta de busca sobre: Os 5 melhores jogos de SNES de todos os tempos. Foque em jogos de  │
+│  Super Nintendo (SNES). Escreva um roteiro em portugues do Brasil para um video de 8 a 12 minutos com: gancho       │
+│  inicial, introducao, um bloco por jogo (historia, curiosidades, por que marcou epoca) e conclusao com call to      │
+│  action. Escreva sempre em portugues do Brasil, mesmo que as fontes da pesquisa estejam em ingles, espanhol ou      │
+│  outro idioma. Nunca responda em outra lingua.                                                                      │
+│  ID: ad0a7a44-c4ff-4481-b380-32f4261eff5c                                                                           │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Agent: Roteirista de Video                                                                                         │
+│                                                                                                                     │
+│  Task: Pesquise com a ferramenta de busca sobre: Os 5 melhores jogos de SNES de todos os tempos. Foque em jogos de  │
+│  Super Nintendo (SNES). Escreva um roteiro em portugues do Brasil para um video de 8 a 12 minutos com: gancho       │
+│  inicial, introducao, um bloco por jogo (historia, curiosidades, por que marcou epoca) e conclusao com call to      │
+│  action. Escreva sempre em portugues do Brasil, mesmo que as fontes da pesquisa estejam em ingles, espanhol ou      │
+│  outro idioma. Nunca responda em outra lingua.                                                                      │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#1) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'Os 5 melhores jogos de SNES de todos os tempos'}                                                  │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+[32mTool duckduckgo_search executed with result: - Os 5 Melhores Jogos de Super Nintendo de Todos os Tempos!#snes # ...
+  Se você cresceu na era dos 16 bits, esse vídeo é pura nostalgia! 🎮No meu Top 5 dos melhores jogos de Super Nintendo estão:🏆 1. ...[0m
+┌───────────────────────────────────────── ✅ Tool Execution Completed (#1) ──────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - Os 5 Melhores Jogos de Super Nintendo de Todos os Tempos!#snes # ...                                     │
+│    Se você cresceu na era dos 16 bits, esse vídeo é pura nostalgia! 🎮No meu Top 5 dos melhores jogos de Super      │
+│  Nintendo estão:🏆 1. Super Mario World🥈 2. Chron...                                                               │
+│    Fonte: https://www.youtube.com/shorts/npeiV7ZkmLM                                                                │
+│                                                                                                                     │
+│  - 5 jogos do Super Nintendo que ainda são divertidos                                                               │
+│    O Super Nintendo (SNES) marcou a década de 90 com uma grande biblioteca de jogos que até hoje são lembrados com  │
+│  carinho por jogadores de todas as idades. Muitos desses títulos envelheceram muito bem. Confira 5 deles.           │
+│    Fonte: https://www.hardware.com.br/artigos/5-jogos-do-super-nintendo-que-ainda-sao-divertidos/                   │
+│                                                                                                                     │
+│  - 5 melhores jogos de SNES - GameVicio                                                                             │
+│    O SNES foi um console lançado pela Nintendo em 1990, tendo uma vasta biblioteca de jogos. Decidimos separar      │
+│  aqui os 5 melhores jogos desse clássico console. Saiba mais                                                        │
+│    Fonte: https://www.gamevicio.com/midia/web-stories/5-melhores-jogos-de-snes/                                     │
+│                                                                                                                     │
+│  - Os Melhores Jogos de Super Nintendo de Todos os Tempos                                                           │
+│    Está preparado para uma viagem ao passado, onde os gráficos podem não ser os mais realistas, mas a diversão é    │
+│  infinita? Então segure firme, porque vamos começar essa jornada de nostalgia e críticas implacáveis aos jogos que  │
+│  moldaram minha infância e a de muitos outros.                                                                      │
+│    Fonte: https://nerdino.com.br/os-melhores-jogos-de-super-nintendo-de-todos-os-tempos/                            │
+│                                                                                                                     │
+│  - Top 10 jogos do SNES para conhecer - Caverna Games                                                               │
+│    Descubra os 10 jogos mais icônicos do SNES neste guia definitivo para fãs de retro gaming. Reviva a magia dos    │
+│  clássicos!                                                                                                         │
+│    Fonte: https://cavernagames.com/top-10-jogos-do-snes-para-conhecer/                                              │
+│                                                                                                                     │
+│  - Os Melhores Jogos de Super Nintendo: Relembre os Clássicos - insinis                                             │
+│    Reviva a era dourada dos videogames com nossa lista dos melhores jogos de Super Nintendo. De Donkey Kong         │
+│  Country a Super Mario, relembre os grandes clássicos!                                                              │
+│    Fonte: https://blog.insinis.com/os-melhores-jogos-de-super-nintendo-relembre-os-classicos/                       │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#2) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'Super Mario World SNES historia curiosidades'}                                                    │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#3) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'Chrono Trigger SNES historia curiosidades'}                                                       │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#4) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'The Legend of Zelda: A Link to the Past SNES historia curiosidades'}                              │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#6) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'Street Fighter II SNES historia curiosidades'}                                                    │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#5) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Args: {'query': 'Donkey Kong Country SNES historia curiosidades'}                                                  │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - Street Fighter II (SNES) completa 30 anos - Nintendo Blast                                               │
+│    Mar 4, 2021 ... Street Fighter II (SNES) completa 30 anos — Listamos 30 curiosidades sobre a franquia ... Em     │
+│  comemoração a mais um aniversário da franquia, ...                                                                 │
+│    Fonte: https://www.nintendoblast.com.br/2021/02/street-fighter-ii-30-curiosidades.html                           │
+│                                                                                                                     │
+│  - Parte 2 das curiosidades de street fighter, esse jogo rende assunto ...                                          │
+│    Apr 21, 2026 ... Não sabia dessa abertura do Sf 2 do soco até dia desses, pq quando criança meu primo tinha a    │
+│  versão que vinha com o snes que era o Super Sf2 ...                                                                │
+│    Fonte: https://www.instagram.com/reel/DXaAXbpic2x/                                                               │
+│                                                                                                                     │
+│  - Parte 2 das curiosidades de street fighter, esse jogo rende assunto ...                                          │
+│    Apr 21, 2026 ... Não sabia dessa abertura do Sf 2 do soco até dia desses, pq quando criança meu primo tinha a    │
+│  versão que vinha com o snes que era o Super Sf2 ...                                                                │
+│    Fonte:                                                                                                           │
+│  /clev?event=Sp_x9&sc=2sbbv9Ind9Dy6pORVvL1zhmQRaNilGbbnReSeFPiCfme7wXXD27r3kNjc3qoPAJlsVJ3icJ5W8IbUQFKGP24fRZkOPuL  │
+│  cRl3&payload=JTdCJTIycCUyMiUzQSUyMmglMjIlMkMlMjJocCUyMiUzQSUyMmF1eCUyMiUyQyUyMnRyJTIyJTNBJTIyaHJlZi1mb2xsb3clMjIl  │
+│  MkMlMjJocGElMjIlM0ElMjJ0aXRsZSUyMiU3RA==                                                                           │
+│                                                                                                                     │
+│  - 10 coisas que você sabe, ou não, sobre Street Fighter II                                                         │
+│    Apr 18, 2021 ... Hadouken! Uma das séries mais vendidas, conhecidas e influentes da história, Street Fighter     │
+│  surgiu em 1987, pelas mãos da Capcom, ...                                                                          │
+│    Fonte: https://forum.adrenaline.com.br/threads/10-coisas-que-voce-sabe-ou-nao-sobre-street-fighter-ii.684018/    │
+│                                                                                                                     │
+│  - Sabe tudo de Street Fighter? Confira fatos e curiosidades da franquia                                            │
+│    Aug 6, 2018 ... Lançado em 1991, ?Street Fighter II: The World Warrior? expandiu os conceitos do original,       │
+│  entre eles o de trazer lutadores de todo o mundo.                                                                  │
+│    Fonte:                                                                                                           │
+│  https://www.uol.com.br/start/album/2018/08/06/30-fatos-e-curiosidades-sobre-a-franquia-street-fighter.htm          │
+│                                                                                                                     │
+│  - Street Fighter II                                                                                                │
+│    Street Fighter II (ストリートファイターⅡ) foi lançado originalmente para Arcade em 1991 com o subtítulo "The     │
+│  World Warrior". Foi o segundo Game da franquia ...                                                                 │
+│    Fonte: https://streetfighter.fandom.com/pt-br/wiki/Street_Fighter_II                                             │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - Chrono Trigger - Wikipedia, la enciclopedia libre                                                        │
+│    Chrono Trigger (クロノ・トリガー Kurono Torigā?) es un videojuego de rol desarrollado y publicado por Square     │
+│  para la videoconsola Super Nintendo Entertainment System (SNES). Es el primero de los títulos que componen la      │
+│  saga Chrono. Fue lanzado por primera vez el 11 de marzo de 1995 en Japón y el 22 de agosto de 1995 en Estados      │
+│  Unidos. La historia del juego sigue a un grupo de ...                                                              │
+│    Fonte: https://es.wikipedia.org/wiki/Chrono_Trigger                                                              │
+│                                                                                                                     │
+│  - Chrono Trigger - Nintendo Wiki                                                                                   │
+│    Chrono Trigger es un RPG para la Super Nintendo Entertainment System que fue desarrollado y publicado            │
+│  originalmente por SquareSoft en 1995. El juego es uno de los videojuegos más notables para la SNES, y es uno de    │
+│  los altos juegos de rol aclamados de todos los tiempos, estando en el primer lugar o…                              │
+│    Fonte: https://nintendo.fandom.com/es/wiki/Chrono_Trigger                                                        │
+│                                                                                                                     │
+│  - Chrono Trigger (SNES) — Historia y jugabilidad | Retrocean                                                       │
+│    Chrono Trigger también popularizó el New Game Plus: al terminar, una partida nueva empieza con los niveles, las  │
+│  Techs y el equipo ya conseguidos, aunque se pierde el dinero y hay que recuperar de nuevo objetos cruciales para   │
+│  la trama, como la Masamune.                                                                                        │
+│    Fonte: https://retrocean.com/es/snes/chrono-trigger/                                                             │
+│                                                                                                                     │
+│  - Chrono Trigger | Chrono Wiki | Fandom                                                                            │
+│    Chrono Trigger (クロノ・トリガー; Kurono Torigā) es un videojuego de rol desarrollado y publicado por Square     │
+│  para Super Nintendo Entertainment System (SNES). Es el primero de los títulos que componen la saga Chrono. Fue     │
+│  lanzado por primera vez el 11 de marzo de 1995 en Japón y el 22 de agosto de 1995 en Estados Unidos. La historia   │
+│  del juego sigue a un grupo de jóvenes aventureros ...                                                              │
+│    Fonte: https://chrono.fandom.com/es/wiki/Chrono_Trigger                                                          │
+│                                                                                                                     │
+│  - Chrono Trigger: 20 curiosidades fascinantes sobre o clássico ...                                                 │
+│    Oct 21, 2025 · Mesmo após décadas, Chrono Trigger permanece como uma verdadeira obra-prima atemporal, lembrando  │
+│  que bons jogos nunca envelhecem. Sua combinação de história emocionante, personagens cativantes e inovação         │
+│  técnica o transformou em um símbolo de excelência no mundo dos RPGs.                                               │
+│    Fonte:                                                                                                           │
+│  https://refugioinvertido.com.br/chrono-trigger-20-curiosidades-fascinantes-sobre-o-classico-atemporal-dos-rpgs/    │
+│                                                                                                                     │
+│  - Chrono Trigger | Wikijuegos | Fandom                                                                             │
+│    Chrono Trigger (クロノ・トリガー; Kurono Torigā) es un videojuego de rol (RPG) desarrollado y publicado por      │
+│  Square Co., Ltd. (actualmente Square Enix Co., Ltd.) para la videoconsola Super Nintendo Entertainment System      │
+│  (SNES).                                                                                                            │
+│    Fonte: https://videojuegos.fandom.com/es/wiki/Chrono_Trigger                                                     │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - Donkey Kong Country - Wikipedia, la enciclopedia libre                                                   │
+│    Donkey Kong Country, conocido en Japón como Super Donkey Kong, b es un videojuego de plataformas desarrollado    │
+│  por Rare y publicado por Nintendo para la Super Nintendo (SNES).                                                   │
+│    Fonte: https://es.wikipedia.org/wiki/Donkey_Kong_Country                                                         │
+│                                                                                                                     │
+│  - Donkey Kong Country - Wikipedia                                                                                  │
+│    Donkey Kong Country was inspired by the Super Mario series and was one of the first home console games to        │
+│  feature pre-rendered graphics, achieved through a compression technique that converted 3D models into SNES         │
+│  sprites with little loss of detail.                                                                                │
+│    Fonte: https://en.wikipedia.org/wiki/Donkey_Kong_Country                                                         │
+│                                                                                                                     │
+│  - Why Donkey Kong Country Revolutionized the SNES | History ...Donkey Kong Country (SNES) — Historia y             │
+│  jugabilidad | RetroceanDonkey Kong Country - WikipediaDonkey Kong Country (SNES): História, Curiosidades, Códigos  │
+│  e ...Donkey Kong Country (SNES, 1994): historia y datos del videojuegoDonkey Kong Country: un clásico que desafió  │
+│  la SNES – Blog                                                                                                     │
+│    Aug 5, 2026 · In this video, we'll break down every aspect of this Rare and Nintendo classic, from its           │
+│  groundbreaking use of pre-rendered graphics to its addictive gameplay and unforgettable soundtrack. Los Kremlings  │
+│  del Rey K. Rool asaltan el alijo de plátanos guardado bajo la casa de Donkey Kong, y el simio se lanza junto a su  │
+│  sobrino Diddy a recuperarlo a lo largo de 40 niveles repartidos en seis mundos. Donkey Kong Country was inspired   │
+│  by the Super Mario series and was one of the first home console games to feature pre-rendered graphics, achieved   │
+│  through a compression technique that converted 3D models into SNES sprites with little loss of detail. Apr 10,     │
+│  2023 · Hoje vamos mergulhar no mundo de Donkey Kong Country, explorando sua história, curiosidades, dicas e        │
+│  códigos para que você possa reviver e aproveitar ao máximo essa obra-prima do SNES. Dec 20, 2021 · Descubre la     │
+│  historia y datos de Donkey Kong Country (SNES, 1994): desarrollo, personajes, versiones y legado del clásico de    │
+│  Rare para Nintendo. Donkey Kong Country no solo fue un juego revolucionario desde lo técnico, sino que redefinió   │
+│  la forma en que interactuábamos con los videojuegos. Desde sus innovaciones gráficas hasta sus secretos ocultos y  │
+│  su papel clave en la historia de Nintendo, el legado de este clásico sigue vivo.                                   │
+│    Fonte: https://www.youtube.com/watch?v=QjE_ZocoGts                                                               │
+│                                                                                                                     │
+│  - Donkey Kong Country (SNES) — Historia y jugabilidad | Retrocean                                                  │
+│    Los Kremlings del Rey K. Rool asaltan el alijo de plátanos guardado bajo la casa de Donkey Kong, y el simio se   │
+│  lanza junto a su sobrino Diddy a recuperarlo a lo largo de 40 niveles repartidos en seis mundos.                   │
+│    Fonte: https://retrocean.com/es/snes/donkey-kong-country/                                                        │
+│                                                                                                                     │
+│  - Donkey Kong Country (SNES): História, Curiosidades, Códigos e ...                                                │
+│    Apr 10, 2023 · Hoje vamos mergulhar no mundo de Donkey Kong Country, explorando sua história, curiosidades,      │
+│  dicas e códigos para que você possa reviver e aproveitar ao máximo essa obra-prima do SNES.                        │
+│    Fonte:                                                                                                           │
+│  https://rgstudios.com.br/curiosidades-e-variedades/https-rggames-com-br-curiosidades-donkey-kong-country/          │
+│                                                                                                                     │
+│  - Donkey Kong Country (SNES, 1994): historia y datos del videojuego                                                │
+│    Dec 20, 2021 · Descubre la historia y datos de Donkey Kong Country (SNES, 1994): desarrollo, personajes,         │
+│  versiones y legado del clásico de Rare para Nintendo.                                                              │
+│    Fonte: https://es.alegsaonline.com/art/28449                                                                     │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - Super Mario World - Wikipedia, la enciclopedia libre                                                     │
+│    Conceptualizaron a Yoshi durante la producción de los de la NES, pero no lo utilizaron hasta Super Mario World   │
+│  debido a las limitaciones del hardware. Super Mario World suele considerarse uno de los mejores videojuegos de la  │
+│  serie y se cita como uno de los mejores de la historia.                                                            │
+│    Fonte: https://es.wikipedia.org/wiki/Super_Mario_World                                                           │
+│                                                                                                                     │
+│  - 25 Secretos de Super Mario World (Curiosidades) - Nintendúo                                                      │
+│    Recorremos de principio a fin Dinosaur Land para contaros todos los detalles, curiosidades y secretos que        │
+│  esconde el mítico Super Mario World de Super Nintendo.                                                             │
+│    Fonte: https://nintenduo.com/25-secretos-de-super-mario-world-curiosidades/                                      │
+│                                                                                                                     │
+│  - Curiosidades Super Mario World – Especial Mario’s Day (Mar10 ...                                                 │
+│    Mar 5, 2024 · Para familiarizarse con las posibilidades técnicas de Super NES, Nintendo EAD porteó Super Mario   │
+│  Bros. 3 a la 16 bits con fines experimentales, y de hecho la famosa capa de World surgió como una evolución de     │
+│  Mario Mapache, al liberarse de la restricción de ir pantalla a pantalla como en NES.                               │
+│    Fonte:                                                                                                           │
+│  https://videojuerguistas.net/curiosidades-super-mario-world-especial-marios-day-mar10-day-retro-analisis-snes-rev  │
+│  iew/                                                                                                               │
+│                                                                                                                     │
+│  - Curiosidades de Super Mario World - RETROPIA                                                                     │
+│    Jul 17, 2009 · Inspirado en los niveles del mundo especial surgieron años después múltiples modificaciones del   │
+│  clásico como el Super Kaizo World que elevaba la dificultad a niveles inhumanos. Además si permanecemos un tiempo  │
+│  en el mapa comenzará a sonar la música de Super Mario Bros.                                                        │
+│    Fonte: https://www.retropia.es/posts/curiosidades-de-super-mario-world/                                          │
+│                                                                                                                     │
+│  - SMW (SNES) — Historia y jugabilidad | Retrocean                                                                  │
+│    El primer movimiento del equipo en la nueva consola fue de diagnóstico más que de creación: reconstruyeron el    │
+│  juego anterior sobre el hardware de Super Nintendo para ver de qué era capaz la máquina.                           │
+│    Fonte: https://retrocean.com/es/snes/super-mario-world/                                                          │
+│                                                                                                                     │
+│  - Curiosidades de Super Mario World - YouTubeSuper Mario: historia completa, juegos clave y curiosidades           │
+│    Apr 12, 2020 · Todas las curiosidades, secretos, historia del desarrollo y diferencias regionales de Super       │
+│  Mario World. 00:00 Introducción 00:44 Historia y desarrollo 08:17 Curiosidades y secretos... Descubre la historia  │
+│  completa de Super Mario, sus juegos clave, power-ups icónicos y ventas. La guía definitiva para fans del           │
+│  fontanero de Nintendo.                                                                                             │
+│    Fonte: https://www.youtube.com/watch?v=DegtIbzWoCw                                                               │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─[32mTool duckduckgo_search executed with result: - Super Mario World - Wikipedia, la enciclopedia libre
+  Conceptualizaron a Yoshi durante la producción de los de la NES, pero no lo utilizaron hasta Super Mario World debido a las limitaciones del ha...[0m
+────────────────────────────────────────[32mTool duckduckgo_search executed with result: - Chrono Trigger - Wikipedia, la enciclopedia libre
+  Chrono Trigger (クロノ・トリガー Kurono Torigā?) es un videojuego de rol desarrollado y publicado por Square para la videoconsola Super Nintendo Entertain...[0m
+ ✅ Tool Execution Completed (#6) [32mTool duckduckgo_search executed with result: - The Legend of Zelda: A Link to the Past – Wikipédia, a ...
+  A história é uma prequência de jogos anteriores da série, envolvendo os ancestrais de Link e da princesa Zelda. O jogo usa uma perspectiv...[0m
+─────────────────────────────────────────[32mTool duckduckgo_search executed with result: - Donkey Kong Country - Wikipedia, la enciclopedia libre
+  Donkey Kong Country, conocido en Japón como Super Donkey Kong, b es un videojuego de plataformas desarrollado por Rare y publicado por Ninten...[0m
+─┐[32mTool duckduckgo_search executed with result: - Street Fighter II (SNES) completa 30 anos - Nintendo Blast
+  Mar 4, 2021 ... Street Fighter II (SNES) completa 30 anos — Listamos 30 curiosidades sobre a franquia ... Em comemoração a mais um aniver...[0m
+
+│                                                                                                                     │
+│  Tool Completed                                                                                                     │
+│  Tool: duckduckgo_search                                                                                            │
+│  Output: - The Legend of Zelda: A Link to the Past – Wikipédia, a ...                                               │
+│    A história é uma prequência de jogos anteriores da série, envolvendo os ancestrais de Link e da princesa Zelda.  │
+│  O jogo usa uma perspectiva de cima para baixo 3/4 semelhante ao do original The Legend of Zelda, deixando para     │
+│  trás os elementos de side-scrolling de Zelda II: The Adventure of Link.                                            │
+│    Fonte: https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past                                     │
+│                                                                                                                     │
+│  - The Legend of Zelda: A Link to the Past - Wikipedia                                                              │
+│    It was released in Japan in 1991, and in North America and Europe in 1992. The story is set many years before    │
+│  the events of the first two Zelda games. The player assumes the role of Link as he journeys to save Hyrule,        │
+│  defeat the demon king Ganon, and rescue the descendants of the Seven Sages.                                        │
+│    Fonte: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past                                     │
+│                                                                                                                     │
+│  - The Legend of Zelda: A Link to the Past - Wikipedia, la ...Manual de instrucciones - Zelda: A Link to the        │
+│  PastThe Legend of Zelda: A Link to the Past - Zelda WikiThe Legend of Zelda: A Link to the Past - Nintendo         │
+│  WikiSecrets - The Legend of Zelda: A Link to the Past Guide - IGN                                                  │
+│    A Link to the Past es una precuela del original The Legend of Zelda y Zelda II: The Adventure of Link, y dentro  │
+│  de la cronología oficial se encuentra el primer juego de la línea de tiempo "Hero is Defeated" (El héroe es        │
+│  derrotado) que conecta con un escenario de realidad alternativa en el que el Hero of Time no tiene éxito en        │
+│  Ocarina of Time. Esto resulta en que Ganon sea encarcelado en el ... Experimente el manual de instrucciones        │
+│  original para The Legend of Zelda: A Link to the Past, una piedra angular de la era de SNES y una entrada          │
+│  fundamental en la serie Zelda. The Legend of Zelda: A Link to the Past is the third main installment of The        │
+│  Legend of Zelda series, and the first and only title for the Super Nintendo Entertainment System, released in      │
+│  November 21, 1991 in Japan and April 13, 1992 in the United States, and few months later in United Kingdom &       │
+│  Ireland. The Legend of Zelda: A Link to the Past fue planeado originalmente para la NES en 1988. Pero en Nintendo  │
+│  se acumuló el trabajo y los proyectos, así que decidieron trasladar el juego a la nueva consola, Super Nintendo    │
+│  en 1990. Mar 16, 2025 · Here are some of the best secrets hidden in The Legend of Zelda: A Link to the Past.       │
+│  Cuccos Attack! The Cuccos found in Kakariko Village and other areas have a vendetta against...                     │
+│    Fonte: https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past                                     │
+│                                                                                                                     │
+│  - Manual de instrucciones - Zelda: A Link to the Past                                                              │
+│    Experimente el manual de instrucciones original para The Legend of Zelda: A Link to the Past, una piedra         │
+│  angular de la era de SNES y una entrada fundamental en la serie Zelda.                                             │
+│    Fonte: https://es.zeldacentral.com/games/a-link-to-the-past/manual/                                              │
+│                                                                                                                     │
+│  - The Legend of Zelda: A Link to the Past - Zelda Wiki                                                             │
+│    The Legend of Zelda: A Link to the Past is the third main installment of The Legend of Zelda series, and the     │
+│  first and only title for the Super Nintendo Entertainment System, released in November 21, 1991 in Japan and       │
+│  April 13, 1992 in the United States, and few months later in United Kingdom & Ireland.                             │
+│    Fonte: https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past                                     │
+│                                                                                                                     │
+│  - The Legend of Zelda: A Link to the Past - Nintendo Wiki                                                          │
+│    The Legend of Zelda: A Link to the Past fue planeado originalmente para la NES en 1988. Pero en Nintendo se      │
+│  acumuló el trabajo y los proyectos, así que decidieron trasladar el juego a la nueva consola, Super Nintendo en    │
+│  1990.                                                                                                              │
+│    Fonte: https://nintendo.fandom.com/es/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past                               │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+[35m[Finalize] todos_count=0, todos_with_results=0[0m
+┌─────────────────────────────────────────────── ✅ Agent Final Answer ───────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Agent: Roteirista de Video                                                                                         │
+│                                                                                                                     │
+│  Final Answer:                                                                                                      │
+│  # Roteiro: Os 5 Melhores Jogos de SNES de Todos os Tempos                                                          │
+│                                                                                                                     │
+│  ## Gancho Inicial                                                                                                  │
+│  Olá, gamers nostálgicos! Hoje vamos fazer uma viagem no tempo e relembrar alguns dos títulos mais icônicos da era  │
+│  16-bit. Prepare-se para reviver grandes aventuras, gráficos que eram uma revolução na época e trilhas sonoras que  │
+│  marcaram gerações. Vamos descobrir juntos quais são os 5 melhores jogos de Super Nintendo de todos os tempos!      │
+│                                                                                                                     │
+│  ## Introdução                                                                                                      │
+│  O Super Nintendo, lançado em 1990, trouxe uma programação incomparável de jogos que capturaram nossos corações e   │
+│  mentes. De plataformas a RPGs, o SNES estabeleceu as bases para o que conhecemos como videogames modernos. Neste   │
+│  vídeo, iremos destacar os cinco jogos que não apenas dominavam as vendas, mas também deixaram uma marca indelével  │
+│  na cultura gamer.                                                                                                  │
+│                                                                                                                     │
+│  ## 1. Super Mario World                                                                                            │
+│  ### História                                                                                                       │
+│  Super Mario World foi lançado em 1990 e é frequentemente apontado como um dos melhores jogos de todos os tempos.   │
+│  Nele, Mario e Luigi embarcam em uma missão para resgatar a Princesa Peach no Reino dos Dinossauros.                │
+│                                                                                                                     │
+│  ### Curiosidades                                                                                                   │
+│  - O jogo introduziu Yoshi, que se tornaria um personagem icônico da franquia.                                      │
+│  - Tem níveis secretos e um mundo expansivo que fez com que os jogadores passassem horas explorando.                │
+│                                                                                                                     │
+│  ### Por que marcou época                                                                                           │
+│  Super Mario World não apenas trouxe cores vibrantes e jogabilidade fluida, mas também definiu o que um jogo de     │
+│  plataforma deveria ser, influenciando todos os títulos posteriores do gênero.                                      │
+│                                                                                                                     │
+│  ## 2. Chrono Trigger                                                                                               │
+│  ### História                                                                                                       │
+│  Lançado em 1995, Chrono Trigger é um RPG que ganhou notoriedade graças à sua narrativa complexa, que permite aos   │
+│  jogadores viajar no tempo e alterar o curso da história.                                                           │
+│                                                                                                                     │
+│  ### Curiosidades                                                                                                   │
+│  - Desenvolvedores renomados como Hironobu Sakaguchi e Akira Toriyama estiveram envolvidos, o que elevou ainda      │
+│  mais o prestígio do jogo.                                                                                          │
+│  - Foi um dos primeiros jogos a introduzir o conceito de "New Game Plus", permitindo que os jogadores recomeçassem  │
+│  o jogo com seus itens e níveis.                                                                                    │
+│                                                                                                                     │
+│  ### Por que marcou época                                                                                           │
+│  Com suas múltiplas finais e uma história envolvente, Chrono Trigger se firmou como uma obra-prima e continua       │
+│  sendo um paradigma para RPGs até hoje.                                                                             │
+│                                                                                                                     │
+│  ## 3. The Legend of Zelda: A Link to the Past                                                                      │
+│  ### História                                                                                                       │
+│  Lançado em 1991, A Link to the Past reintroduziu Link e Zelda em uma narrativa repleta de ação, enigmas e uma      │
+│  vasta exploração em dois mundos paralelos.                                                                         │
+│                                                                                                                     │
+│  ### Curiosidades                                                                                                   │
+│  - O jogo foi inicialmente planejado para a NES, mas foi transferido para o SNES devido às suas exigências          │
+│  tecnológicas.                                                                                                      │
+│  - Introduziu muitos elementos que se tornariam padrões em futuros jogos da série Zelda.                            │
+│                                                                                                                     │
+│  ### Por que marcou época                                                                                           │
+│  Com gráficos inovadores e uma jogabilidade de mundo aberto, A Link to the Past não só rejuvenesceu a série Zelda,  │
+│  mas também definiu como deveriam ser os jogos de ação-aventura.                                                    │
+│                                                                                                                     │
+│  ## 4. Donkey Kong Country                                                                                          │
+│  ### História                                                                                                       │
+│  Lançado em 1994, Donkey Kong Country trouxe Donkey e Diddy Kong em uma missão para resgatar seus estoques de       │
+│  bananas dos Kremlings.                                                                                             │
+│                                                                                                                     │
+│  ### Curiosidades                                                                                                   │
+│  - Foi um dos primeiros jogos a usar gráficos pré-renderizados, um grande avanço tecnológico na época.              │
+│  - O design e a trilha sonora foram amplamente elogiados, tornando-se um marco na história dos jogos.               │
+│                                                                                                                     │
+│  ### Por que marcou época                                                                                           │
+│  Donkey Kong Country não só redefiniu a franquia Donkey Kong, mas também mostrou um novo patamar em termos de       │
+│  qualidade gráfica e jogabilidade no SNES.                                                                          │
+│                                                                                                                     │
+│  ## 5. Street Fighter II                                                                                            │
+│  ### História                                                                                                       │
+│  Street Fighter II, lançado em 1991, revolucionou o gênero de jogos de luta, apresentando uma variedade de          │
+│  personagens jogáveis, cada um com suas habilidades únicas.                                                         │
+│                                                                                                                     │
+│  ### Curiosidades                                                                                                   │
+│  - O jogo popularizou o conceito de competição em jogos de luta, levando ao surgimento de torneios.                 │
+│  - É um dos jogos mais vendidos e influentes de todos os tempos, inspirado nas lutas da cultura pop.                │
+│                                                                                                                     │
+│  ### Por que marcou época                                                                                           │
+│  Street Fighter II elevou os jogos de luta a um novo patamar e estabeleceu muitos dos princípios que ainda são      │
+│  utilizados em títulos de combate hoje.                                                                             │
+│                                                                                                                     │
+│  ## Conclusão                                                                                                       │
+│  E aí, gamers, o que vocês acharam dessa lista dos 5 melhores jogos de SNES? Claro que existem muitos outros        │
+│  títulos incríveis, mas esses cinco realmente definiram a era 16-bit e deixaram um legado duradouro.                │
+│                                                                                                                     │
+│  Inscreva-se no canal, deixe seu like e compartilhe nos comentários quais jogos você acha que deveriam entrar       │
+│  nessa lista! Vamos juntos reviver a magia dos clássicos! Até a próxima!                                            │
+│                                                                                                                     │
+│  ---                                                                                                                │
+│                                                                                                                     │
+│  Espero que você tenha gostado do roteiro! Se precisar de mais alguma coisa, estou à disposição.                    │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Task Completed                                                                                                     │
+│  Name: Pesquise com a ferramenta de busca sobre: Os 5 melhores jogos de SNES de todos os tempos. Foque em jogos de  │
+│  Super Nintendo (SNES). Escreva um roteiro em portugues do Brasil para um video de 8 a 12 minutos com: gancho       │
+│  inicial, introducao, um bloco por jogo (historia, curiosidades, por que marcou epoca) e conclusao com call to      │
+│  action. Escreva sempre em portugues do Brasil, mesmo que as fontes da pesquisa estejam em ingles, espanhol ou      │
+│  outro idioma. Nunca responda em outra lingua.                                                                      │
+│  Agent: Roteirista de Video                                                                                         │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────── 📋 Task Started ──────────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Task Started                                                                                                       │
+│  Name: Com base no roteiro, crie TRES conceitos de thumbnail bem diferentes entre si (ex.: nostalgia, acao,         │
+│  misterio). Para cada um, chame a ferramenta thumbnail_generator com numero 1, 2 e 3 e um prompt visual em ingles.  │
+│  Nao cite nomes de personagens ou marcas registradas no prompt; descreva-os visualmente.                            │
+│  ID: cba0e3c6-753e-42af-8790-49c1059a9924                                                                           │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────┐
+│                                                                                                                     │
+│  Agent: Criador de Thumbnail                                                                                        │
+│                                                                                                                     │
+│  Task: Com base no roteiro, crie TRES conceitos de thumbnail bem diferentes entre si (ex.: nostalgia, acao,         │
+│  misterio). Para cada um, chame a ferramenta thumbnail_generator com numero 1, 2 e 3 e um prompt visual em ingles.  │
+│  Nao cite nomes de personagens ou marcas registradas no prompt; descreva-os visualmente.                            │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#1) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: thumbnail_generator                                                                                          │
+│  Args: {'numero': 1, 'prompt': 'A nostalgic scene featuring colorful 16-bit landscapes with iconic platforms, a     │
+│  heroic character wearing a red cap and blue overalls jumping over an enemy and a dinosaur compa...                 │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#2) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: thumbnail_generator                                                                                          │
+│  Args: {'numero': 2, 'prompt': 'An epic battle scene showcasing a brave warrior with spiky hair and a sword facing  │
+│  a menacing dragon in a pixelated world. The background is filled with a mystical aura, with ...                    │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────── 🔧 Tool Execution Started (#3) ───────────────────────────────────────────┐
+│                                                                                                                     │
+│  Tool: thumbnail_generator                                                                                          │
+│  Args: {'numero': 3, 'prompt': 'A dynamic fighting arena filled with various characters with unique styles and      │
+│  poses, ready for a showdown. The background has a vibrant cityscape filled with neon lights and ...                │
+│                                                                                                                     │
+│                                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
